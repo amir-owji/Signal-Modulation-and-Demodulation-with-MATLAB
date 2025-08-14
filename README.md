@@ -169,7 +169,13 @@ Some plots (e.g., FM modulation) are best viewed in MATLAB for clarity.
 Audio playback code is commented out but can be enabled for testing.
 
 
+Audio file (myVoice.m4a) for voice signal processing.
+
 Sample Outputs
+
+
+
+
 ![untitled1](https://github.com/user-attachments/assets/584bcb22-929b-4cb7-9912-fadf6fe30020)
 ![untitled](https://github.com/user-attachments/assets/aa7de973-0597-4a42-9f61-7f8ec75138d1)
 ![ssb v](https://github.com/user-attachments/assets/8571e7e7-a170-40b0-8048-fcdc9a9e3643)
@@ -187,4 +193,4 @@ Sample Outputs
 
 
 
-Audio file (myVoice.m4a) for voice signal processing.
+
